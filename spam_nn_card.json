@@ -1,0 +1,7 @@
+{
+  "seed": 42,
+  "tensorflow": "2.21.0",
+  "best_epoch": 22,
+  "test_roc_auc": 0.9930994521702486,
+  "threshold": 0.5
+}
